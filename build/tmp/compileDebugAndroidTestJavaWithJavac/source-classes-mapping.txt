@@ -1,0 +1,2 @@
+com/checkbalance/calculator/test/BuildConfig.java
+ com.checkbalance.calculator.test.BuildConfig
